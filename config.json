@@ -1,0 +1,10 @@
+{
+    "AppSettings": {
+        "SiteTitle": "YammerSlammer"
+    },
+    "Data": {
+        "DefaultConnection": {
+            "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-YammerSlammer-d7cfb3f8-ffef-473e-a863-b8652df29efd;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    }
+}
